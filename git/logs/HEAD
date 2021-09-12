@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 526de2c5a546760ef681fd138b27c479be0fa8ce Niklafast <niklafast@hotmail.com> 1631045385 -0500	commit (initial): agregamos Git a nuestro proyecto
+526de2c5a546760ef681fd138b27c479be0fa8ce 8d7a27e81b180a0a89008bdc02418bf458cebd42 Niklafast <niklafast@hotmail.com> 1631074402 -0500	commit: se realizaron para que funcione bien le proyecto
+8d7a27e81b180a0a89008bdc02418bf458cebd42 cdacafc466dcdabd1c1c193d5550e3c7ceaed113 Niklafast <niklafast@hotmail.com> 1631074783 -0500	commit: se realizo cambio de img
+cdacafc466dcdabd1c1c193d5550e3c7ceaed113 cdacafc466dcdabd1c1c193d5550e3c7ceaed113 Niklafast <niklafast@hotmail.com> 1631076917 -0500	checkout: moving from master to footer
+cdacafc466dcdabd1c1c193d5550e3c7ceaed113 cf34aeef3d3ed770eab589760735173c812c1eb2 Niklafast <niklafast@hotmail.com> 1631079131 -0500	commit: modificamos el footer
+cf34aeef3d3ed770eab589760735173c812c1eb2 cdacafc466dcdabd1c1c193d5550e3c7ceaed113 Niklafast <niklafast@hotmail.com> 1631079223 -0500	checkout: moving from footer to master
+cdacafc466dcdabd1c1c193d5550e3c7ceaed113 cf34aeef3d3ed770eab589760735173c812c1eb2 Niklafast <niklafast@hotmail.com> 1631079240 -0500	merge footer: Fast-forward

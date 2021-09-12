@@ -1,0 +1,16 @@
+/* variable menu*/
+
+.gridContainerMenu{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 50% 50%;
+  grid-row-gap: 20px;
+}
+.parallax1{
+    background-image: url(../assets/fotos/MUGI_Textura05px.jpg);
+  height: 500px;
+  background-attachment: fixed; /*create parralax scrolling effect*/
+    background-position: center;
+    background-repeat: no repeat;
+    background-attachment: auto;
+}

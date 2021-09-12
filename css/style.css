@@ -1,0 +1,135 @@
+/* variable general*/
+.marginLeft {
+  marginl: 50px; }
+
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around; }
+
+.navbar li {
+  float: center;
+  padding: 0 30px;
+  margin: 0 30px; }
+
+.navbar a {
+  font-weight: bold; }
+
+.container-fluid {
+  padding: 0;
+  margin: 0; }
+
+.marginF {
+  margin: 50px 0 0 0; }
+
+.bgFooter {
+  background: linear-gradient(to bottom, grey, white); }
+
+.txt {
+  text-align: center; }
+
+.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; }
+
+a {
+  color: black; }
+
+.encabezado {
+  grid-area: encabezado;
+  text-align: center;
+  font-family: cursive; }
+
+.borderRadius {
+  border-radius: 5%; }
+
+.redesContainer {
+  display: inline-block;
+  list-style-type: none;
+  width: 40px;
+  height: 40px;
+  font-size: 40px; }
+
+/* variable menu*/
+.gridContainerMenu {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 50% 50%;
+  grid-row-gap: 20px; }
+
+.parallax1 {
+  background-image: url(../assets/fotos/MUGI_Textura05px.jpg);
+  height: 500px;
+  background-attachment: fixed;
+  /*create parralax scrolling effect*/
+  background-position: center;
+  background-repeat: no repeat;
+  background-attachment: auto; }
+
+/* variable nuestra historia*/
+.moverVideo {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; }
+
+.txtCen {
+  font-size: 120%;
+  font-family: cursive;
+  text-align: center;
+  font-weight: bolder;
+  word-spacing: 20px;
+  margin-top: 50px;
+  margin-right: 80px;
+  margin-left: 50px;
+  margin-bottom: 50px; }
+
+.lista {
+  list-style-type: none; }
+
+/* variable galeria*/
+.jumbotron {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-color: #fff; }
+
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem; } }
+
+.jumbotron p:last-child {
+  margin-bottom: 0; }
+
+.jumbotron h1 {
+  font-weight: 300; }
+
+.jumbotron .container {
+  max-width: 40rem; }
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
+
+footer p {
+  margin-bottom: .25rem; }
+
+@media only screen and (max-width: 768px) {
+  .noMobile {
+    display: none; } }
+
+/* variable contacto*/
+.parallax2 {
+  background-image: url(../assets/fotos/MUGUI_Nosotros.jpg);
+  height: 400px;
+  background-attachment: fixed;
+  /*create parralax scrolling effect*/
+  background-position: center;
+  background-repeat: no repeat;
+  background-attachment: auto; }
+
+.mapFlex {
+  display: flex;
+  justify-content: flex-end;
+  align-content: flex-end; }
